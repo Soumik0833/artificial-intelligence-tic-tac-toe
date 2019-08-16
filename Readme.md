@@ -7,4 +7,4 @@
 
 ###  Why is doing the above necessary?
 1. The program uses pyswip, which in turn uses SWI-Prolog shared library to work (as seen on windows). So if you dont do that, you might find some error like [FATAL ERROR: Could not find system resources]. More info about this - http://www.swi-prolog.org/FAQ/FindResources.html 
-2. If after doing all the above steps, the program still doesn't run, send an email to soumik@minerva.kgi.edu with the description of your problem and I will try to fix it.
+2. If after doing all the above steps, the program still doesn't run, send an email to soumikghoshmoulic@gmail.com with the description of your problem and I will try to fix it.
